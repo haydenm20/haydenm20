@@ -1,6 +1,7 @@
-- 👋 Hi, I’m @haydenm20
-- 👀 I’m interested in building systems that help make data driven decisions.
-- 💞️ I’m looking to collaborate on data science and analytics projects
+- 🎆 Hi, I’m @haydenm20
+- 👀 I enjoy building systems that help make data driven decisions
+- 🤝 I’m looking to collaborate on data science and analytics projects
+- 🏰 In my repositories, are examples of some older work and projects
 - 📫 How to reach me hpmcalpin97@gmail.com
 
 <!---
